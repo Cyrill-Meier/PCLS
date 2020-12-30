@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn how to do AWS
+          Learn how to do PCLS
         </a>
       </header>
     </div>
