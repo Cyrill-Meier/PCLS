@@ -1,0 +1,10 @@
+{
+  "auth": {
+    "pcls71ae2f11": {
+      "service": "Cognito",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
